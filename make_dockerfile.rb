@@ -1,4 +1,4 @@
-#!/usr/bin/ruby
+24#!/usr/bin/ruby
 
 require 'optparse'
 require 'erb'
